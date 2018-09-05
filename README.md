@@ -21,7 +21,7 @@ A Gatsby starter based on the default with storybook and jest pre-installed.
 
     ```sh
     # create a new Gatsby site using this starter
-    gatsby new project-name https://github.com/mathspy/gatsby-storybook-jest-stater
+    gatsby new project-name https://github.com/mathspy/gatsby-storybook-jest-starter
     ```
 
 3.  **Start developing.**
